@@ -1,4 +1,4 @@
 # nlw-payflow
 Flutter mission on NLW
 
-<img src="/github/Capa.png" alt="Capa"/>
+<img src="/images/Capa.png" alt="Capa"/>
