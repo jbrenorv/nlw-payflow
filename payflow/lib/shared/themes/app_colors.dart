@@ -16,4 +16,6 @@ class AppColors {
   static final background = Color(0xFFFFFFFF);
 
   static final radial = Color(0xFFFFC380);
+  static final input = Color(0xFFB1B0B8);
+  static final secundary = Color(0xFF585666);
 }
